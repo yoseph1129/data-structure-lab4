@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lec02_Findmax/Lec02_Findmax.vcxproj" Id="f6b1f0f1-2ae0-4af0-b8c0-d52f898c0fdd" />
+</Solution>
