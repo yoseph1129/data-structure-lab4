@@ -1,0 +1,7 @@
+오후 1:46에 빌드를 시작함...
+1>------ 빌드 시작: 프로젝트: Lec04_Array_Class, 구성: Debug x64 ------
+1>  maxlight.cpp
+1>C:\Users\user\OneDrive\문서\homwork\Lec04_Array_class\Lec04_Array_class\maxlight.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+1>  Lec04_Array_class.vcxproj -> C:\Users\user\OneDrive\문서\homwork\Lec04_Array_class\x64\Debug\Lec04_Array_Class.exe
+========== 빌드: 1개 성공, 0개 실패, 0개 최신 상태, 0개 건너뜀 ==========
+========== 빌드이(가) 오후 1:46에 완료되었으며, 00.571 초이(가) 걸림 ==========

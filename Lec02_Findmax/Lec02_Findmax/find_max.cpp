@@ -11,12 +11,12 @@ int findArrayMax(int score[], int n)
     return tmp;
 }
 
-int main() 
+void main() 
 {
     int score[5] = { 1, 10, 2, 4, 5 };
     int out;
     out = findArrayMax(score, 5);
     printf("result = %d\n", out);
 
-    return 0;
+ 
 }
