@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\queue.obj",
+            "outputs": [
+                "x64\\Debug\\queue.h_6C290F928CFCB877.ifc.dt.module.json",
+                "x64\\Debug\\queue.h_6C290F928CFCB877.ifc.dt.d.json",
+                "x64\\Debug\\queue.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\user\\OneDrive\\문서\\data-structure-lab4\\Queue\\Queue\\queue.h",
+                    "source-path": "c:\\users\\user\\onedrive\\문서\\data-structure-lab4\\queue\\queue\\queue.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

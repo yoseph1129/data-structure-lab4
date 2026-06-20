@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="steck/steck.vcxproj" Id="644cfc2c-8749-4a60-bd67-ba4cbddbf92b" />
+  <Project Path="Students_Class/Students_Class.vcxproj" Id="13be00bd-d80c-4fcc-9a06-ef914a4d0149" />
+</Solution>

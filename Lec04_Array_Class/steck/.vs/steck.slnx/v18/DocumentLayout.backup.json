@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\\uBB38\uC11C\\data-structure-lab4\\Lec04_Array_Class\\steck\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13BE00BD-D80C-4FCC-9A06-EF914A4D0149}|Students_Class\\Students_Class.vcxproj|C:\\Users\\user\\OneDrive\\\uBB38\uC11C\\data-structure-lab4\\Lec04_Array_Class\\steck\\Students_Class\\Students.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13BE00BD-D80C-4FCC-9A06-EF914A4D0149}|Students_Class\\Students_Class.vcxproj|solutionrelative:Students_Class\\Students.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BE00BD-D80C-4FCC-9A06-EF914A4D0149}|Students_Class\\Students_Class.vcxproj|C:\\Users\\user\\OneDrive\\\uBB38\uC11C\\data-structure-lab4\\Lec04_Array_Class\\steck\\Students_Class\\students.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13BE00BD-D80C-4FCC-9A06-EF914A4D0149}|Students_Class\\Students_Class.vcxproj|solutionrelative:Students_Class\\students.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BE00BD-D80C-4FCC-9A06-EF914A4D0149}|Students_Class\\Students_Class.vcxproj|C:\\Users\\user\\OneDrive\\\uBB38\uC11C\\data-structure-lab4\\Lec04_Array_Class\\steck\\Students_Class\\StudentsStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13BE00BD-D80C-4FCC-9A06-EF914A4D0149}|Students_Class\\Students_Class.vcxproj|solutionrelative:Students_Class\\StudentsStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Students.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBB38\uC11C\\data-structure-lab4\\Lec04_Array_Class\\steck\\Students_Class\\Students.h",
+              "RelativeDocumentMoniker": "Students_Class\\Students.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBB38\uC11C\\data-structure-lab4\\Lec04_Array_Class\\steck\\Students_Class\\Students.h",
+              "RelativeToolTip": "Students_Class\\Students.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-22T07:12:29.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsStack.h",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBB38\uC11C\\data-structure-lab4\\Lec04_Array_Class\\steck\\Students_Class\\StudentsStack.h",
+              "RelativeDocumentMoniker": "Students_Class\\StudentsStack.h",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBB38\uC11C\\data-structure-lab4\\Lec04_Array_Class\\steck\\Students_Class\\StudentsStack.h",
+              "RelativeToolTip": "Students_Class\\StudentsStack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-14T07:40:27.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "students.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBB38\uC11C\\data-structure-lab4\\Lec04_Array_Class\\steck\\Students_Class\\students.cpp",
+              "RelativeDocumentMoniker": "Students_Class\\students.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBB38\uC11C\\data-structure-lab4\\Lec04_Array_Class\\steck\\Students_Class\\students.cpp",
+              "RelativeToolTip": "Students_Class\\students.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-14T07:39:33.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

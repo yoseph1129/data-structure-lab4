@@ -7,7 +7,7 @@ class Polynomial {
     float coef[MAX_DEGREE];
 
 public:
-    // 수정 1: 모든 계수를 0으로 초기화하여 쓰레기 값을 제거합니다.
+    //모든 계수를 0으로 초기화하여 쓰레기 값을 제거합니다.
     Polynomial() {
         degree = 0;
         for (int i = 0; i < MAX_DEGREE; i++) coef[i] = 0.0f;

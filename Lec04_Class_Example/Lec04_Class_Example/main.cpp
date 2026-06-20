@@ -1,3 +1,4 @@
+#include <iostream>
 #include "Rectangle.h"
 #include "pet.h"
 #include "Music.h"
@@ -16,7 +17,7 @@ int main() {
 	Pet myPet("Lucky", 5, "dog");
 	cout << "My pet's name is " << myPet.getName() << endl;
 	Puppy myPuppy("Kong", 3, "dog", "Puddle");
-	cout << "My puppy's breed is " << myPuppy.getBreed()<< endl;
+	cout << "My puppy's breed is " << myPuppy.getBreed() << endl;
 	printf("===================================\n");
 
 	//creat a new music streaming service
@@ -34,7 +35,8 @@ int main() {
 	if (result != NULL) {
 		cout << "Found: " << result->getTitle() << endl;
 	}
-	else { cout << "NOt Found" << endl;
+	else {
+		cout << "NOt Found" << endl;
 	}
 	// Search by artist
 	string artist_name;
@@ -53,4 +55,4 @@ int main() {
 	}
 
 	return 0;
-}
+};

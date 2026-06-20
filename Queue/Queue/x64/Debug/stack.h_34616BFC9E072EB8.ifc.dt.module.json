@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\stack.obj",
+            "outputs": [
+                "x64\\Debug\\stack.h_34616BFC9E072EB8.ifc.dt.module.json",
+                "x64\\Debug\\stack.h_34616BFC9E072EB8.ifc.dt.d.json",
+                "x64\\Debug\\stack.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\user\\OneDrive\\문서\\data-structure-lab4\\Queue\\Queue\\stack.h",
+                    "source-path": "c:\\users\\user\\onedrive\\문서\\data-structure-lab4\\queue\\queue\\stack.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
